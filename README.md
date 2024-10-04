@@ -6,7 +6,13 @@ Az első labor során megismerkedünk a fejlesztői környezettel, valamint elk�
 Ezután végigmegyünk a kiírás, és az új sor kezdésének lehetőségein, valamint megtanuljuk hogyan lehet ékezetes kiírást készíteni.
 Ha ezekkel megvagyunk, megtanuljuk a változók deklarálását, létrehozását és az alap matematikai műveleteket.
 
-##2. labor
+## 2. labor
 A második laboron megtanultuk a float, double, char típúsok használatát, valamint a típuskonverziókat. Megismerkedtünk a konstansokkal.
 Megtanultuk az adatok bekérését a konzolról, valamint matematikai számításokat végeztünk.
 Megismerkedtünk a for ciklussal, és az if-else feltételes elágazással is.
+
+## 3. labor
+A harmadik alkalommal megtanultuk a relációs és logikai operátorok működését.
+Megiserkedtünk a switch-case feltételes elágazással is.
+Megtanultuk az elöl és hátul tesztelős ciklusokat is, azaz a while és a do-while ciklusokat.
+Létrehoztunk tömböket, és megnéztük hogyan tudjuk azokat használni.
