@@ -16,3 +16,11 @@ A harmadik alkalommal megtanultuk a relációs és logikai operátorok működé
 Megiserkedtünk a switch-case feltételes elágazással is.
 Megtanultuk az elöl és hátul tesztelős ciklusokat is, azaz a while és a do-while ciklusokat.
 Létrehoztunk tömböket, és megnéztük hogyan tudjuk azokat használni.
+
+## 4. labor
+A negyedik alkalommal megtanultuk a karakterkezelő függvények használatát.
+Megiserkedtünk a többdimenziós tömbökkel is, valamint a karaktertömbökkel. Megvizsgáltuk a beolvasási lehetőségeinket, cin.getline(), vagy a cin a jobb számunkra. A pufferben maradt \n karaktereket is kiküszöböltük.
+Megtanultuk a struktúratömbök felépítését, és használatát is.
+
+## 5. labor
+Az ötödik alkalommal megnéztük a string típust, annak használatát és a ozzá tartozó függvényeket is. Ezen felül gyakoroltunk, és komplex feladatot is csináltunk.
