@@ -1,0 +1,9 @@
+196450 196454 Siofok Siofok 0 15 5.3
+196454 196500 Siofok Veszprem 0 53 6.2
+196702 196703 Kecskemet Kecskemet 0 8 8.5
+196546 196549 Siofok Zamardi 0 29 6.6
+196549 196553 Zamardi Siofok 0 20 6.5
+196500 196546 Veszprem Siofok 0 43 6.5
+196553 196699 Siofok Kecskemet 2 46 6.4
+196699 196702 Kecskemet Kecskemet 0 15 12.8
+196304 196450 Kecskemet Siofok 3 11 5.2
