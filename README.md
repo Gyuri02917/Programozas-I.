@@ -24,3 +24,9 @@ Megtanultuk a struktúratömbök felépítését, és használatát is.
 
 ## 5. labor
 Az ötödik alkalommal megnéztük a string típust, annak használatát és a ozzá tartozó függvényeket is. Ezen felül gyakoroltunk, és komplex feladatot is csináltunk.
+
+## 6. labor
+A hatodik laboron megtanultuk a táblázatos kiírásokat, iomanip header használatát, és a manipulálást.
+
+## 7. labor
+A hetedik alkalommal a fájlkezeléssel ismerkedtünk meg, valamint a gyakorlás a zh-ra készíti fel a hallgatót.
