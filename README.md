@@ -30,3 +30,6 @@ A hatodik laboron megtanultuk a táblázatos kiírásokat, iomanip header haszn�
 
 ## 7. labor
 A hetedik alkalommal a fájlkezeléssel ismerkedtünk meg, valamint a gyakorlás a zh-ra készíti fel a hallgatót.
+
+## 8. labor
+Gyakorló feladatok a ZH-ra
