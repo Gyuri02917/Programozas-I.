@@ -33,3 +33,9 @@ A hetedik alkalommal a fájlkezeléssel ismerkedtünk meg, valamint a gyakorlás
 
 ## 8. labor
 Gyakorló feladatok a ZH-ra
+
+## 9. labor
+Gyakorló feladatok a ZH-ra
+
+## 10. labor
+Gyakorló feladatok a ZH-ra
